@@ -1,0 +1,16 @@
+sinistra
+destra
+divieto
+sei
+muro
+novanta
+due
+quarantacinque
+zero
+centottanta
+uno
+quattro
+cinque
+avanti
+tre
+porta
